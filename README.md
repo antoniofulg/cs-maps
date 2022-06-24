@@ -4,6 +4,7 @@
 <h3>Features</h3>
 <ul>
 <li>de_cashalley</li>
+<li>de_cevo_concrete2</li>
 <li>de_cbble_css</li>
 <li>de_dust2_go</li>
 <li>de_dust2_go2</li>
@@ -12,8 +13,10 @@
 <li>de_mirage_css</li>
 <li>de_nuke_go</li>
 <li>de_nuke2_css</li>
+<li>de_russka</li>
 <li>de_season_css</li>
 <li>de_town_arco</li>
+<li>de_tuscan</li>
 <li>fy_powerful</li>
 </ul>
 
