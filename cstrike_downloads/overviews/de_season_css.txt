@@ -1,0 +1,14 @@
+// overview description file for de_season_css.bsp
+
+global 
+{
+	ZOOM	1.25
+	ORIGIN	112 	140	-241
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_season_css.bmp"
+	HEIGHT	-241
+}

@@ -1,0 +1,7 @@
+SEASON - bomb defuse
+
+Terrorists are trying to disrupt the research of the controversial Season Corporation.
+
+Credits:
+Created CS S Version by Ted "cashed" McIlwain
+port to Gold Source by Niko
