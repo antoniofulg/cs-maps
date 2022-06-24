@@ -1,0 +1,11 @@
+maps/de_cevo_concrete2.txt
+maps/de_cevo_concrete2.nav
+maps/de_cevo_concrete2.res
+gfx/env/sky2bk.tga
+gfx/env/sky2dn.tga
+gfx/env/sky2ft.tga
+gfx/env/sky2lf.tga
+gfx/env/sky2rt.tga
+gfx/env/sky2up.tga
+overviews/de_cevo_concrete2.bmp
+overviews/de_cevo_concrete2.txt

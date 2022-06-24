@@ -1,0 +1,14 @@
+// overview description file for de_cevo_concrete2.bsp
+
+global 
+{
+	ZOOM 1.31
+	ORIGIN -47.13 -38.44 176.00
+	ROTATED 1
+}
+
+layer 
+{
+	IMAGE "overviews/de_cevo_concrete2.bmp"
+	HEIGHT -609.00.00
+}
