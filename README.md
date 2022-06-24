@@ -6,6 +6,7 @@
 <li>de_cashalley</li>
 <li>de_cbble_css</li>
 <li>de_dust2_go</li>
+<li>de_dust2_go2</li>
 <li>de_lite</li>
 <li>de_mirage</li>
 <li>de_mirage_css</li>
